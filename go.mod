@@ -1,4 +1,4 @@
-
+module github.com/Rami-Nassar/nw-gobot
 
 go 1.16
 

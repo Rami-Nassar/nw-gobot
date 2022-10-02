@@ -3,12 +3,13 @@ package main
 import "C"
 import (
 	"flag"
-	"github.com/chistiykot/gobot/window"
-	"github.com/go-vgo/robotgo"
 	"log"
 	"math/rand"
 	"os"
 	"time"
+
+	"github.com/Rami-Nassar/nw-gobot/window"
+	"github.com/go-vgo/robotgo"
 )
 
 const (
